@@ -1,5 +1,3 @@
 Hi There
-<div id="header" align="center">
-<img src="[(![image](https://github.com/kml99/Hello-World/assets/153861571/f611234d-c841-411e-a326-dfaf24f58155))" width="100"/>
-</div>
 
+<iframe src="https://giphy.com/embed/RN8FdaB6T1bkkI5n4I" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I">via GIPHY</a></p>
